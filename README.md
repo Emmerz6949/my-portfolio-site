@@ -2,7 +2,7 @@
 
 ## Description
 
-This repostory was created so I could test my ability to make a website using HTML and only Bootstrap for my CSS. It is a demo of a portfolio site,and not my actual portfolio site.
+This repostory was created so I could test my ability to make a website using HTML and only Bootstrap for my CSS. It is a demo of a portfolio site, and not my actual portfolio site.
 
 
 
@@ -24,4 +24,4 @@ There isn't anything to install or use as this is just a website that has been d
 
 The styling was thanks to the power of Bootstrap (https://getbootstrap.com/).
 
-The images used in https://emmerz6949.github.io/my-portfolio-site/portfolio.html belong to their rightful owners (see the portfolio.html for each source link).
+The images used in https://emmerz6949.github.io/my-portfolio-site/portfolio.html belong to their rightful owners (see the portfolio.html file for each source link).
