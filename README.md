@@ -2,7 +2,7 @@
 
 ## Description
 
-This repostory was created so I could test my ability to make a website using HTML and only Bootstrap for my CSS. It is a demo of a portfolio site, and not my actual portfolio site.
+This repository was created so I could test my ability to make a website using HTML and only Bootstrap for my CSS. It is a demo of a portfolio site, and not my actual portfolio site.
 
 
 
